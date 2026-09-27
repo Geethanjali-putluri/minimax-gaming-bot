@@ -1,0 +1,6 @@
+{
+  "name": "Minimax Game Playing Bot",
+  "description": "An academic B.Tech CSE-AIML project demonstrating game playing AI using the Minimax algorithm for Tic-Tac-Toe and Connect Four, with curriculum mapping and viva preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
