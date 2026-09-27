@@ -1,6 +1,5 @@
-# 🎮 Minimax Game Playing Bot
-Live Demo: minimax-gaming-bot.vercel.app
-
+# Minimax Game Playing Bot
+**Live Demo:** [minimax-gaming-bot.vercel.app](https://minimax-gaming-bot.vercel.app/)
 An interactive AI-based game-playing website that demonstrates how the **Minimax algorithm** can be used to make strategic decisions in board games.
 
 ## 📌 Project Overview
